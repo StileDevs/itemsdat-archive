@@ -1,3 +1,92 @@
 {
-  "content": "items-v5.55.dat"
+  "latest": {
+    "content": "items-v5.55.dat",
+    "hash": 385169830
+  },
+  "old_items": [
+    {
+      "content": "items-v5.10.dat",
+      "hash": 459064214
+    },
+    {
+      "content": "items-v5.11.dat",
+      "hash": -2089802784
+    },
+    {
+      "content": "items-v5.12.dat",
+      "hash": -350908176
+    },
+    {
+      "content": "items-v5.13.dat",
+      "hash": -2024666370
+    },
+    {
+      "content": "items-v5.18.dat",
+      "hash": -741333734
+    },
+    {
+      "content": "items-v5.24.dat",
+      "hash": -450078038
+    },
+    {
+      "content": "items-v5.26.dat",
+      "hash": 68720062
+    },
+    {
+      "content": "items-v5.32.dat",
+      "hash": 1998858107
+    },
+    {
+      "content": "items-v5.33.dat",
+      "hash": 1062770915
+    },
+    {
+      "content": "items-v5.33-osx.dat",
+      "hash": 1697002985
+    },
+    {
+      "content": "items-v5.36.dat",
+      "hash": 876139451
+    },
+    {
+      "content": "items-v5.37.dat",
+      "hash": -170272614
+    },
+    {
+      "content": "items-v5.39.dat",
+      "hash": 829448197
+    },
+    {
+      "content": "items-v5.40.dat",
+      "hash": -1478530396
+    },
+    {
+      "content": "items-v5.46.dat",
+      "hash": -1261176637
+    },
+    {
+      "content": "items-v5.47.dat",
+      "hash": 1043231284
+    },
+    {
+      "content": "items-v5.48.dat",
+      "hash": -1967207710
+    },
+    {
+      "content": "items-v5.50.dat",
+      "hash": 446148009
+    },
+    {
+      "content": "items-v5.51.dat",
+      "hash": -1328100251
+    },
+    {
+      "content": "items-v5.52.dat",
+      "hash": -1125485163
+    },
+    {
+      "content": "items-v5.53.dat",
+      "hash": 951249999
+    }
+  ]
 }
