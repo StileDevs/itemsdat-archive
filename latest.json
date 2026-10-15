@@ -1,7 +1,7 @@
 {
   "latest": {
-    "content": "items-v5.57.dat",
-    "hash": -681141237
+    "content": "items-v5.59.dat",
+    "hash": 966734738
   },
   "old_items": [
     {
@@ -91,6 +91,10 @@
     {
       "content": "items-v5.55.dat",
       "hash": 385169830
+    },
+    {
+      "content": "items-v5.57.dat",
+      "hash": -681141237
     }
   ]
 }
